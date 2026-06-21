@@ -1,0 +1,12 @@
+verify
+data
+experimentos/generador
+*.o
+*.exe
+*.out
+*.csv
+
+data/raw/*
+!data/raw/.gitkeep
+data/output/*
+!data/output/.gitkeep
